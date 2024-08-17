@@ -11,4 +11,4 @@
 <h3>Distribution of data</h3>
 
 ![last](https://github.com/user-attachments/assets/90b9bb9b-73a6-4ab4-bf88-624489e67325)
-![Screenshot 2024-08-17 094601](https://github.com/user-attachments/assets/ab59eb1c-05f6-4f10-a795-563dcb06497d)
+![last2](https://github.com/user-attachments/assets/742082cd-69e6-48a3-8ae0-7383f09f1b1e)
