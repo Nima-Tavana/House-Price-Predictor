@@ -8,6 +8,7 @@
 
 ![dataset](https://github.com/user-attachments/assets/e66b14e8-b287-4488-8a8a-73aa1440044c)
 <hr>
+<h3>Distribution of data</h3>
 
 ![Screenshot 2024-08-17 094542](https://github.com/user-attachments/assets/48ce2f44-3167-499d-a59c-54eefb031a2e)
 ![Screenshot 2024-08-17 094601](https://github.com/user-attachments/assets/ab59eb1c-05f6-4f10-a795-563dcb06497d)
